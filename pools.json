@@ -70,10 +70,10 @@
     ]
   },
   {
-    "poolName": "Stratum",
-    "url": "",
+    "poolName": "POOOL!",
+    "url": "http://www.POOOL.com/",
     "searchStrings": [
-      "/nodeStratum/"
+    "POOOL.com http://www.POOOL.com/"
     ]
-  }
+   }
 ]
